@@ -1,209 +1,109 @@
-<h1 align="center">Hi 👋, I'm Surya Ramisetty</h1>
+<h1 align="center">Hi, I'm Surya Ramisetty 👋</h1>
 
 <h3 align="center">
-AI/ML Engineer • Full-Stack Developer • Security Researcher • Final-Year CSE Student
+AI/ML Engineer · Full-Stack Developer · Security Researcher · Final-Year CSE Student
 </h3>
 
 <p align="center">
 Building intelligent AI solutions, scalable backend systems, and production-ready software.
 </p>
 
+<p align="center">
+<a href="https://suryaramisetty.github.io/Portfolio/"><img src="https://img.shields.io/badge/Portfolio-visit-6C63FF?style=for-the-badge"/></a>
+<a href="https://drive.google.com/file/d/1Jp8KhfJYtOiNY9i8tFC6DnkRlfshsyJx/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-download-39D9C4?style=for-the-badge"/></a>
+<a href="mailto:tmsuryaramisetty@gmail.com"><img src="https://img.shields.io/badge/Email-contact-black?style=for-the-badge"/></a>
+</p>
+
 ---
 
-## 🚀 About Me
+### 🚀 About Me
 
-- 🎓 Final-Year B.Tech Computer Science & Engineering (AI/ML)
+- 🎓 Final-year B.Tech, Computer Science & Engineering (AI/ML)
 - 🏫 SRM Institute of Science and Technology, Chennai
-- 🤖 Passionate about Artificial Intelligence, Machine Learning & Full-Stack Development
-- 📚 Published Researcher
-- 📄 Patent Filed
-- 💻 3+ AI/ML Internships
-- 🌱 Currently learning Advanced AI, System Design & Cloud Deployment
-- 🎯 Goal: Become an AI Engineer at a top product company
+- 🤖 Focused on Artificial Intelligence, Machine Learning & Full-Stack Development
+- 📚 Published researcher · 📄 Patent filed
+- 💼 3+ AI/ML internships
+- 🌱 Currently deepening my skills in system design and cloud deployment
+- 🎯 Goal: AI Engineer at a top product company
 
 ---
 
-# 🌐 Portfolio & Resume
+### 🌐 Portfolio & Resume
 
-🌍 **Portfolio**
-
-➡️ file:///Users/suryaramisetty/Downloads/index.html
-
-📄 **Resume**
-
-➡️ https://drive.google.com/file/d/1Jp8KhfJYtOiNY9i8tFC6DnkRlfshsyJx/view?usp=sharing
+| | |
+|---|---|
+| 🌍 **Portfolio** | [suryaramisetty.github.io/Portfolio](https://suryaramisetty.github.io/Portfolio/) |
+| 📄 **Resume** | [View on Google Drive](https://drive.google.com/file/d/1Jp8KhfJYtOiNY9i8tFC6DnkRlfshsyJx/view?usp=sharing) |
 
 ---
 
-# 📫 Connect With Me
+### 📫 Connect With Me
 
 <p align="center">
-
-<a href="mailto:tmsuryaramisetty@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" height="55"/>
-</a>
-
-<a href="https://www.linkedin.com/in/surya-ramisetty-baab5a29b/">
-<img src="https://skillicons.dev/icons?i=linkedin" height="55"/>
-</a>
-
-<a href="https://github.com/SuryaRamisetty">
-<img src="https://skillicons.dev/icons?i=github" height="55"/>
-</a>
-
-<a href="https://x.com/suryaramisetty_">
-<img src="https://skillicons.dev/icons?i=twitter" height="55"/>
-</a>
-
-<a href="https://leetcode.com/u/RamisettySurya/">
-<img src="https://cdn.simpleicons.org/leetcode" height="55"/>
-</a>
-
-<a href="https://www.hackerrank.com/profile/tmsuryaramisetty">
-<img src="https://cdn.simpleicons.org/hackerrank" height="55"/>
-</a>
-
-<a href="https://www.codechef.com/users/vigil_moles_31">
-<img src="https://cdn.simpleicons.org/codechef" height="55"/>
-</a>
-
-<a href="https://codeforces.com/profile/Ramisettysurya">
-<img src="https://cdn.simpleicons.org/codeforces" height="55"/>
-</a>
-
+<a href="mailto:tmsuryaramisetty@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="50"/></a>
+<a href="https://www.linkedin.com/in/surya-ramisetty-baab5a29b/"><img src="https://skillicons.dev/icons?i=linkedin" height="50"/></a>
+<a href="https://github.com/SuryaRamisetty"><img src="https://skillicons.dev/icons?i=github" height="50"/></a>
+<a href="https://x.com/suryaramisetty_"><img src="https://skillicons.dev/icons?i=twitter" height="50"/></a>
+<a href="https://leetcode.com/u/RamisettySurya/"><img src="https://cdn.simpleicons.org/leetcode" height="50"/></a>
+<a href="https://www.hackerrank.com/profile/tmsuryaramisetty"><img src="https://cdn.simpleicons.org/hackerrank" height="50"/></a>
+<a href="https://www.codechef.com/users/vigil_moles_31"><img src="https://cdn.simpleicons.org/codechef" height="50"/></a>
+<a href="https://codeforces.com/profile/Ramisettysurya"><img src="https://cdn.simpleicons.org/codeforces" height="50"/></a>
 </p>
 
 ---
 
-# 💻 Coding Profiles
-
-| Platform | Profile |
-|----------|---------|
-| 🟢 LeetCode | https://leetcode.com/u/RamisettySurya/ |
-| 🟤 CodeChef | https://www.codechef.com/users/vigil_moles_31 |
-| 🔵 Codeforces | https://codeforces.com/profile/Ramisettysurya |
-| 🟢 HackerRank | https://www.hackerrank.com/profile/tmsuryaramisetty |
-| ⚫ GitHub | https://github.com/SuryaRamisetty |
-
----
-
-# 🛠 Languages & Tools
+### 🛠 Languages & Tools
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=python" />
-<img src="https://skillicons.dev/icons?i=java" />
-<img src="https://skillicons.dev/icons?i=cpp" />
-<img src="https://skillicons.dev/icons?i=c" />
-<img src="https://skillicons.dev/icons?i=javascript" />
-<img src="https://skillicons.dev/icons?i=html" />
-<img src="https://skillicons.dev/icons?i=css" />
-<img src="https://skillicons.dev/icons?i=nodejs" />
-<img src="https://skillicons.dev/icons?i=express" />
-<img src="https://skillicons.dev/icons?i=react" />
-<img src="https://skillicons.dev/icons?i=flask" />
-<img src="https://skillicons.dev/icons?i=mysql" />
-<img src="https://skillicons.dev/icons?i=postgres" />
-<img src="https://skillicons.dev/icons?i=firebase" />
-<img src="https://skillicons.dev/icons?i=git" />
-<img src="https://skillicons.dev/icons?i=github" />
-<img src="https://skillicons.dev/icons?i=vscode" />
-<img src="https://skillicons.dev/icons?i=linux" />
-<img src="https://skillicons.dev/icons?i=tensorflow" />
-<img src="https://skillicons.dev/icons?i=pytorch" />
-
+<img src="https://skillicons.dev/icons?i=python,java,cpp,c,javascript,html,css,nodejs,express,react,flask,mysql,postgres,firebase,git,github,vscode,linux,tensorflow,pytorch"/>
 </p>
 
 ---
 
-# 🚀 Featured Projects
+### 🚀 Featured Projects
 
-### 🔹 Distributed Job Scheduler
-Production-inspired distributed background job scheduler built using Node.js, Express & PostgreSQL.
-
-### 🔹 Low-Light Image Enhancement
-AI-powered deep learning model for enhancing low-light images.
-
-### 🔹 AI Resume Analyzer
-Resume ranking and recommendation system using Machine Learning.
-
-### 🔹 Crop Health & Yield Prediction
-Satellite-based crop prediction using Machine Learning.
-
-### 🔹 Diabetes Prediction
-ML model for diabetes prediction using healthcare datasets.
-
-### 🔹 Car Price Prediction
-Regression-based machine learning model.
-
-### 🔹 IPL Winning Team Prediction
-Sports analytics project using Machine Learning.
-
-### 🔹 Threat-Aware Mixed Encryption Model
-Patent Filed Research Project on Intelligent Encryption Systems.
+| Project | Description |
+|---|---|
+| 🔐 **Threat-Aware Mixed Encryption Model** | Patent-filed research project on an intelligent, threat-adaptive encryption system |
+| 🗂️ **Distributed Job Scheduler** | Production-inspired distributed background job scheduler — Node.js, Express, PostgreSQL |
+| 🌙 **Low-Light Image Enhancement** | Deep learning model for enhancing visibility and detail in low-light images |
+| 📄 **AI Resume Analyzer** | ML-based resume ranking and recommendation system |
+| 🌾 **Crop Health & Yield Prediction** | Satellite-data-driven crop yield prediction using machine learning |
+| 🩺 **Diabetes Prediction** | ML model for diabetes risk prediction on healthcare datasets |
+| 🚗 **Car Price Prediction** | Regression-based price estimation model |
+| 🏏 **IPL Winning Team Prediction** | Sports analytics and outcome prediction using machine learning |
 
 ---
 
-# 🏆 Achievements
+### 🏆 Achievements
 
-🏅 Published Researcher
-
-🏅 Patent Filed
-
-🏅 AI/ML Internships
-
-🏅 Full-Stack Projects
-
-🏅 Open Source Contributor
+- 📚 Published researcher (IJIREEICE)
+- 📄 Indian patent filed — Threat-Aware Mixed Encryption Model
+- 💼 3+ AI/ML internships completed
+- 🖥️ Multiple full-stack and machine learning projects shipped
+- 🌱 Active open-source contributor
 
 ---
 
-# 📈 GitHub Statistics
+### 📈 GitHub Stats
 
 <p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SuryaRamisetty&show_icons=true&theme=tokyonight"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuryaRamisetty&layout=compact&theme=tokyonight"/>
-
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=SuryaRamisetty&show_icons=true&theme=tokyonight"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuryaRamisetty&layout=compact&theme=tokyonight"/>
 </p>
 
----
-
-# 🔥 GitHub Streak
-
 <p align="center">
-
 <img src="https://streak-stats.demolab.com?user=SuryaRamisetty&theme=tokyonight"/>
-
 </p>
 
----
-
-# 🏆 GitHub Trophies
-
 <p align="center">
-
 <img src="https://github-profile-trophy.vercel.app/?username=SuryaRamisetty&theme=tokyonight&row=1&column=7"/>
+</p>
 
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=SuryaRamisetty&label=Profile%20Views&color=6C63FF&style=for-the-badge"/>
 </p>
 
 ---
 
-# 📊 Profile Views
-
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=SuryaRamisetty&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
-
-</p>
-
----
-
-<h3 align="center">
-⭐ Thanks for visiting my profile! ⭐
-</h3>
-
-<p align="center">
-Let's build something amazing with AI 🚀
-</p>
+<p align="center">⭐ Thanks for visiting my profile — let's build something with AI. ⭐</p>
