@@ -27,7 +27,7 @@ Building intelligent AI solutions, scalable backend systems, and production-read
 
 🌍 **Portfolio**
 
-➡️ YOUR_PORTFOLIO_LINK
+➡️ file:///Users/suryaramisetty/Downloads/index.html
 
 📄 **Resume**
 
