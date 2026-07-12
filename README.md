@@ -19,7 +19,7 @@ Building intelligent AI solutions, scalable backend systems, and production-read
 ### 🚀 About Me
 
 - 🎓 Final-year B.Tech, Computer Science & Engineering (AI/ML)
-- 🏫 SRM Institute of Science and Technology, Chennai
+- 🏫 SRM Institute of Science and Technology, Chennai · CGPA 9.0
 - 🤖 Focused on Artificial Intelligence, Machine Learning & Full-Stack Development
 - 📚 Published researcher · 📄 Patent filed
 - 💼 3+ AI/ML internships
