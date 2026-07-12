@@ -8,16 +8,6 @@ AI/ML Engineer • Full-Stack Developer • Final-Year CSE Student @ SRM Institu
 Building intelligent AI solutions, scalable backend systems, and production-ready software.
 </p>
 
-<h1 align="center">Hi 👋, I'm Surya Ramisetty</h1>
-
-<h3 align="center">
-AI/ML Engineer • Full-Stack Developer • Final-Year CSE Student @ SRM Institute of Science and Technology
-</h3>
-
-<p align="center">
-Building intelligent AI solutions, scalable backend systems, and production-ready software.
-</p>
-
 <p align="center">
 
 <a href="mailto:tmsuryaramisetty@gmail.com">
