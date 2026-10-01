@@ -76,28 +76,41 @@ status:      Open to AI/ML Engineering roles
 
 ## 💼 Training &amp; Internship Experience
 
-> Over 4 months of continuous, hands-on AI/ML training completed across three structured internship programs (Dec 2024 – Jan 2026), covering the full ML lifecycle from data preprocessing to model deployment.
+<blockquote>
+Over 7 months of hands-on AI/ML training and industrial experience across structured internship programs and an aerospace R&amp;D internship, covering machine learning workflows, software development, data analysis, and engineering project work.
+</blockquote>
 
 <table>
 <tr><th>Role</th><th>Organization</th><th>Duration</th><th>Highlights</th></tr>
+
 <tr>
-  <td>Machine Learning Intern</td>
-  <td><b>SkillFied Mentor</b></td>
-  <td>Dec 2025 – Jan 2026</td>
-  <td>Trained in supervised &amp; unsupervised learning; built data preprocessing, training, and evaluation pipelines under mentorship</td>
+<td><b>Project Intern (AI/ML)</b></td>
+<td><b>Hindustan Aeronautics Limited (HAL), MCSRDC · Bengaluru</b></td>
+<td>Sep 2026 – Present</td>
+<td>Selected for a three-month full-time on-site industrial internship; contributing to project development and analysis tasks using Python and machine-learning concepts within an aerospace engineering R&amp;D environment</td>
 </tr>
+
 <tr>
-  <td>AI/ML Intern</td>
-  <td><b>InternPe</b></td>
-  <td>Nov 2025 – Dec 2025</td>
-  <td>Completed applied AI/ML training covering core workflows and tools; strengthened analytical skills via case studies</td>
+<td>Machine Learning Intern</td>
+<td><b>SkillFied</b></td>
+<td>Dec 2025 – Jan 2026</td>
+<td>Trained in supervised &amp; unsupervised learning; built data preprocessing, training, and evaluation pipelines under mentorship</td>
 </tr>
+
 <tr>
-  <td>Machine Learning Intern</td>
-  <td><b>Mindenious</b></td>
-  <td>Dec 2024 – Feb 2025</td>
-  <td>Trained in Python-based supervised &amp; unsupervised ML techniques; applied preprocessing, training, and evaluation on real-world datasets</td>
+<td>AI/ML Intern</td>
+<td><b>InternPe</b></td>
+<td>Nov 2025 – Dec 2025</td>
+<td>Completed applied AI/ML training covering core workflows and tools; strengthened analytical skills via practical case studies</td>
 </tr>
+
+<tr>
+<td>Machine Learning Intern</td>
+<td><b>Mindenious</b></td>
+<td>Dec 2024 – Feb 2025</td>
+<td>Trained in Python-based supervised &amp; unsupervised ML techniques; applied preprocessing, training, and evaluation on real-world datasets</td>
+</tr>
+
 </table>
 
 <br/>
@@ -148,6 +161,14 @@ status:      Open to AI/ML Engineering roles
 <br/>
 
 ## 🚀 Featured Projects
+
+### ✈️ HTT-40 Simulation Log Management System
+
+**C# · WPF · .NET · SQLite · QuestPDF · HAL Industrial Project**
+
+A Windows desktop application developed during my HAL internship for managing HTT-40 simulation logs and error records, featuring login, dashboard, event logging, new-error recording, device configuration, report & analysis, and PDF reporting.
+
+**Hindustan Aeronautics Limited (HAL), MCSRDC · Bengaluru · 2026**
 
 ### 🔐 Intelligent Threat-Aware Mixed Encryption Model
 **Patent Filed · Jan – May 2026 · Guide: Prof. Neelam Sanjeev Kumar**
