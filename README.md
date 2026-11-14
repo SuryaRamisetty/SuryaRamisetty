@@ -307,7 +307,7 @@ A hybrid security framework combining AES, ECC, and BLAKE3 for secure data trans
 <tr><td>🐙 GitHub</td><td><a href="https://github.com/SuryaRamisetty">SuryaRamisetty</a></td></tr>
 <tr><td>𝕏 Twitter / X</td><td><a href="https://x.com/suryaramisetty_">@suryaramisetty_</a></td></tr>
 <tr><td>🌍 Portfolio</td><td><a href="https://suryaramisetty.github.io/Portfolio/">suryaramisetty.github.io/Portfolio</a></td></tr>
-<tr><td>📄 Resume</td><td><a href="https://drive.google.com/file/d/1Sz9jHUjvDEcPrBIFCa1GRfpSWk5sVAFf/view?usp=sharing">View on Google Drive</a></td></tr>
+<tr><td>📄 Resume</td><td><a href="https://drive.google.com/file/d/1iOORai6IuQK3tM3PZs02W8DH7cFv_GMb/view?usp=sharing">View on Google Drive</a></td></tr>
 </table>
 
 <div align="center">
