@@ -1,13 +1,13 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a1626,100:5eead4&height=220&section=header&text=Hi%2C%20I'm%20Surya%20Ramisetty%20%F0%9F%91%8B&fontSize=42&fontColor=e9eef6&animation=fadeIn&fontAlignY=36&desc=AI/ML%20Engineer%20%C2%B7%20Full-Stack%20Developer%20%C2%B7%20Security%20Researcher%20%C2%B7%20Final-Year%20CSE%20Student&descAlignY=56&descSize=16" width="100%"/>
+<img src="https://raw.githubusercontent.com/SuryaRamisetty/SuryaRamisetty/main/assets/hero.svg" alt="Surya Ramisetty, AI/ML Engineer" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com/?lines=Building+intelligent+AI+solutions...;Engineering+threat-aware+security+systems...;Shipping+production-ready+full-stack+software...;Open+to+AI%2FML+Engineering+roles...&font=JetBrains+Mono&center=true&width=700&height=45&duration=2800&pause=900&color=5EEAD4&vCenter=true&size=20"/>
 
 <br/>
 
-<a href="https://suryaramisetty.github.io/Portfolio/"><img src="https://img.shields.io/badge/Portfolio-visit-5eead4?style=for-the-badge&logo=vercel&logoColor=black"/></a>
-<a href="https://drive.google.com/file/d/1Sz9jHUjvDEcPrBIFCa1GRfpSWk5sVAFf/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-download-f5a623?style=for-the-badge&logo=googledrive&logoColor=black"/></a>
+<a href="https://suryaramisetty.github.io/Portfolio/"><img src="https://img.shields.io/badge/3D%20Portfolio-launch-5eead4?style=for-the-badge&logo=threedotjs&logoColor=black"/></a>
+<a href="https://drive.google.com/file/d/1iOORai6IuQK3tM3PZs02W8DH7cFv_GMb/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-download-f5a623?style=for-the-badge&logo=googledrive&logoColor=black"/></a>
 <a href="mailto:tmsuryaramisetty@gmail.com"><img src="https://img.shields.io/badge/Email-contact-0a1626?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/surya-ramisetty-baab5a29b/"><img src="https://img.shields.io/badge/LinkedIn-connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
@@ -21,7 +21,7 @@
 
 </div>
 
-<br/>
+<div align="center"><img src="https://raw.githubusercontent.com/SuryaRamisetty/SuryaRamisetty/main/assets/divider.svg" width="100%" alt=""/></div>
 
 ## 🧬 About Me
 
@@ -46,7 +46,7 @@ status:      Open to AI/ML Engineer, Data Science and Software Engineer roles
 - 🌍 NGO volunteer · rural education outreach in Andhra Pradesh
 - 🎯 Goal: AI Engineer at a top product company
 
-<br/>
+<div align="center"><img src="https://raw.githubusercontent.com/SuryaRamisetty/SuryaRamisetty/main/assets/divider.svg" width="100%" alt=""/></div>
 
 ## 🎓 Education
 
@@ -72,7 +72,7 @@ status:      Open to AI/ML Engineer, Data Science and Software Engineer roles
 </tr>
 </table>
 
-<br/>
+<div align="center"><img src="https://raw.githubusercontent.com/SuryaRamisetty/SuryaRamisetty/main/assets/divider.svg" width="100%" alt=""/></div>
 
 ## 💼 Experience
 
@@ -109,7 +109,7 @@ status:      Open to AI/ML Engineer, Data Science and Software Engineer roles
 
 </table>
 
-<br/>
+<div align="center"><img src="https://raw.githubusercontent.com/SuryaRamisetty/SuryaRamisetty/main/assets/divider.svg" width="100%" alt=""/></div>
 
 ## 🛠️ Tech Stack
 
@@ -176,7 +176,7 @@ status:      Open to AI/ML Engineer, Data Science and Software Engineer roles
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 
-<br/>
+<div align="center"><img src="https://raw.githubusercontent.com/SuryaRamisetty/SuryaRamisetty/main/assets/divider.svg" width="100%" alt=""/></div>
 
 ## 🚀 Featured Projects
 
@@ -253,7 +253,7 @@ A hybrid security framework combining AES, ECC, and BLAKE3 for secure data trans
 
 </details>
 
-<br/>
+<div align="center"><img src="https://raw.githubusercontent.com/SuryaRamisetty/SuryaRamisetty/main/assets/divider.svg" width="100%" alt=""/></div>
 
 ## 📚 Publications & Patents
 
@@ -262,7 +262,7 @@ A hybrid security framework combining AES, ECC, and BLAKE3 for secure data trans
 | 🏆 Patent | Intelligent Threat-Aware Mixed Encryption Model for Privacy Preservation in Large-Scale Data Communication | Lead inventor · Indian Patent App. No. 202641048590 · Filed Apr 2026 |
 | 📄 Publication | Advanced Machine Learning for Real-Time Driver Distraction Analysis with Visual Inputs | Lead author · IJIREEICE, Vol. 13, Issue 10 · Oct 2025 |
 
-<br/>
+<div align="center"><img src="https://raw.githubusercontent.com/SuryaRamisetty/SuryaRamisetty/main/assets/divider.svg" width="100%" alt=""/></div>
 
 ## 📜 Certifications
 
@@ -275,14 +275,14 @@ A hybrid security framework combining AES, ECC, and BLAKE3 for secure data trans
 - ✅ Cisco · Introduction to Cybersecurity
 - ✅ Udemy · Docker and Kubernetes
 
-<br/>
+<div align="center"><img src="https://raw.githubusercontent.com/SuryaRamisetty/SuryaRamisetty/main/assets/divider.svg" width="100%" alt=""/></div>
 
 ## 🤝 Leadership & Community
 
 **NGO Volunteer · Chaitanya Mahila Mandali** · *Jun 2025*
 - Ran learning and awareness sessions for school students during a one-month rural outreach program in Andhra Pradesh
 
-<br/>
+<div align="center"><img src="https://raw.githubusercontent.com/SuryaRamisetty/SuryaRamisetty/main/assets/divider.svg" width="100%" alt=""/></div>
 
 ## 📊 GitHub Stats
 
@@ -297,7 +297,7 @@ A hybrid security framework combining AES, ECC, and BLAKE3 for secure data trans
 <img src="https://github-profile-trophy.vercel.app/?username=SuryaRamisetty&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8"/>
 </div>
 
-<br/>
+<div align="center"><img src="https://raw.githubusercontent.com/SuryaRamisetty/SuryaRamisetty/main/assets/divider.svg" width="100%" alt=""/></div>
 
 ## 🌐 Connect With Me
 
