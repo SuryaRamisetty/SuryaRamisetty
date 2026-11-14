@@ -6,7 +6,7 @@
 
 <br/>
 
-<a href="https://suryaramisetty.github.io/Portfolio/"><img src="https://img.shields.io/badge/3D%20Portfolio-launch-5eead4?style=for-the-badge&logo=threedotjs&logoColor=black"/></a>
+<a href="https://suryaramisetty.github.io/Portfolio/"><img src="https://img.shields.io/badge/Portfolio-launch-5eead4?style=for-the-badge&logo=threedotjs&logoColor=black"/></a>
 <a href="https://drive.google.com/file/d/1iOORai6IuQK3tM3PZs02W8DH7cFv_GMb/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-download-f5a623?style=for-the-badge&logo=googledrive&logoColor=black"/></a>
 <a href="mailto:tmsuryaramisetty@gmail.com"><img src="https://img.shields.io/badge/Email-contact-0a1626?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/surya-ramisetty-baab5a29b/"><img src="https://img.shields.io/badge/LinkedIn-connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
